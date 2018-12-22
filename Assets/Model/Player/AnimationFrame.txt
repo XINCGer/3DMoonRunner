@@ -1,0 +1,4 @@
+Run			200-224
+JumpUp			280-290
+JumpDown		290-306
+JumpLoop		360-390

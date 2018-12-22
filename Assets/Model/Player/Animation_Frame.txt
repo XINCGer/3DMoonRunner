@@ -1,0 +1,8 @@
+Run		0-24
+JumpStart	80-90
+JumpEnd		90-103
+JumpLoop	160-190
+JumpLeft		240-255
+JumpRight	309-326
+Roll		380-392
+Death		450-468
