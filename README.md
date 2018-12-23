@@ -5,9 +5,9 @@
 * Unity2018.2.3f1 + C# + vs2017  
 
 ## 游戏预览  
-![](./Previewspreviews1.png)  
-![](./Previewspreviews2.png)  
-![](./Previewspreviews3.png)  
+![](./Previews/previews1.png)  
+![](./Previews/previews2.png)  
+![](./Previews/previews3.png)  
 
 ## 下载地址  
 * [Android版](https://github.com/XINCGer/3DMoonRunner/releases/download/0.0.1Beta/Android.0.0.1Beta.apk)  
